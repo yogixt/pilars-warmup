@@ -1,5 +1,9 @@
 # Warmly — self-hosted email warm-up + AI auto-reply
 
+**Live:** [pilars-warmup.vercel.app](https://pilars-warmup.vercel.app) (sign-in required)
+
+![Warmly sign-in screen](docs/screenshot.png)
+
 A private warm-up engine for a pool of mailboxes you control. Mailboxes email
 each other on a gradually increasing ramp; incoming warm-up mail is detected,
 marked **read + important**, **rescued from spam**, and **auto-replied** to with
